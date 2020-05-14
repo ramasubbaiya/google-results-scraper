@@ -1,0 +1,11 @@
+[
+  {
+    "query": "tesla",
+    "searchTerms": "",
+    "mustContainTerms": "investment",
+    "mustContainAtLeastOneTerm": "",
+    "shouldNotAppearTerms": "",
+    "shouldContainLinkToURL": "",
+    "resultsRelatedtedToURL": ""
+  }
+]
